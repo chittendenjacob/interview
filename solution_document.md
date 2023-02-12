@@ -45,7 +45,7 @@ Present all the options on the table with the pros and cons of each option
 
 - **High Level Design**
 
-[![alt text](https://github.com/chittendenjacob/interview/blob/main/Copyoffm.drawio.png)
+[![alt text](https://github.com/chittendenjacob/interview/blob/main/Copy%20of%20fm.drawio.png)
 
 
   In this section provide a clear explaination of your design with a flow diagram or an image created using either draw.io or lucidchart or visio. Keep it low on text and heavy on visual representation. 
