@@ -30,7 +30,7 @@ Table of Contents
 
 # Objective 
 
-Why do you want to write this solution design document? What is the problem you want to solve?
+To provide a technical design document for fault management of network devices with SNMP interfaces.
 
 # Expectation from the review Board 
 Be very clear about what you expect from the members of the review board if you are presenting your design to an audience that needs to approve it. That helps keep the audience focussed and not propel them into unnecessary discussions and also provides them a clear idea of what to look for or observe in the design.
